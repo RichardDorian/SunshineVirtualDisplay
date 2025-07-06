@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository is now archived as this feature is now built in [Apollo](https://github.com/ClassicOldSong/Apollo).
+
 # Sunshine Virtual Display
 
 Those two scripts add the possibility to make [Sunshine](https://github.com/LizardByte/Sunshine) set the right resolution, refresh rate and HDR settings on a virtual display, matching the client screen. You can use any virtual display driver but [the one](https://github.com/itsmikethetech/Virtual-Display-Driver) made by [@itsmikethetech](https://github.com/itsmikethetech) is recommended. The scripts are executed by Sunshine before a session starts. The actions executed by the scripts are reverted when the session ends. The scripts only enable the screen when a session is in progress, making impossible to interact with the virtual screen when using your computer normally.
